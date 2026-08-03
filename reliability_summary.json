@@ -1,0 +1,30 @@
+{
+  "healthcare": {
+    "trust_claim": 0.7590949106569272,
+    "bias_claim": 0.8319892473118337,
+    "interp_claim": 0.8479729729729719,
+    "clinical_use_disclaimer": 0.959925788497217,
+    "trust_evidence": 0.7003740158836212,
+    "bias_evidence": 0.8322898032200409,
+    "interp_evidence": 0.8220007119971513
+  },
+  "control": {
+    "trust_claim": 0.7186046123830644,
+    "bias_claim": 0.21752738654146012,
+    "interp_claim": 0.5240172940383165,
+    "clinical_use_disclaimer": 0.8804238514557623,
+    "trust_evidence": 0.6395540375450787,
+    "bias_evidence": 0.33125278644671696,
+    "interp_evidence": 0.4285330106225607
+  },
+  "pooled": {
+    "trust_claim": 0.7388497615199958,
+    "bias_claim": 0.5247583169266469,
+    "interp_claim": 0.6859951335056442,
+    "clinical_use_disclaimer": 0.9201748199764896,
+    "trust_evidence": 0.66996402671435,
+    "bias_evidence": 0.5817712948333789,
+    "interp_evidence": 0.625266861309856
+  },
+  "overall_avg": 0.6781114592551944
+}

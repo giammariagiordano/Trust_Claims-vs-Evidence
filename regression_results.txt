@@ -1,0 +1,61 @@
+=== Logistic regression: any_claim ~ domain + log_downloads + is_organization ===
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:          any_claim_int   No. Observations:                 1000
+Model:                          Logit   Df Residuals:                      996
+Method:                           MLE   Df Model:                            3
+Date:                Wed, 29 Jul 2026   Pseudo R-squ.:                0.005100
+Time:                        17:04:12   Log-Likelihood:                -363.07
+converged:                       True   LL-Null:                       -364.93
+Covariance Type:            nonrobust   LLR p-value:                    0.2931
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept            -2.1577      0.173    -12.503      0.000      -2.496      -1.819
+domain_healthcare     0.1435      0.201      0.714      0.475      -0.250       0.537
+log_downloads        -0.0100      0.046     -0.216      0.829      -0.101       0.081
+is_org_int            0.3721      0.214      1.743      0.081      -0.046       0.791
+=====================================================================================
+
+Odds ratios:
+Intercept            0.115591
+domain_healthcare    1.154314
+log_downloads        0.990017
+is_org_int           1.450842
+dtype: float64
+
+95% CI (odds ratio scale):
+                          0         1
+Intercept          0.082419  0.162115
+domain_healthcare  0.778660  1.711196
+log_downloads      0.903817  1.084439
+is_org_int         0.954704  2.204812
+
+=== OLS: gap_score ~ domain + log_downloads + is_organization ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              gap_score   R-squared:                       0.005
+Model:                            OLS   Adj. R-squared:                  0.002
+Method:                 Least Squares   F-statistic:                     1.690
+Date:                Wed, 29 Jul 2026   Prob (F-statistic):              0.167
+Time:                        17:04:12   Log-Likelihood:                 460.60
+No. Observations:                1000   AIC:                            -913.2
+Df Residuals:                     996   BIC:                            -893.6
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+=====================================================================================
+                        coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept             0.0096      0.008      1.154      0.249      -0.007       0.026
+domain_healthcare     0.0131      0.010      1.326      0.185      -0.006       0.033
+log_downloads         0.0020      0.002      0.884      0.377      -0.002       0.007
+is_org_int            0.0135      0.011      1.200      0.230      -0.009       0.036
+==============================================================================
+Omnibus:                     1170.236   Durbin-Watson:                   2.058
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            61370.756
+Skew:                           6.174   Prob(JB):                         0.00
+Kurtosis:                      39.337   Cond. No.                         7.72
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

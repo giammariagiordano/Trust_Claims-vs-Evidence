@@ -1,0 +1,14 @@
+Already have 300 control models, need 200 more
+Pulling a broad pool of up to 20000 recently-created models...
+Pool size: 20000
+Non-health, not-already-collected candidates: 19610
+  collected 25/200 (tried 43/19610)
+  collected 50/200 (tried 85/19610)
+  collected 75/200 (tried 126/19610)
+  collected 100/200 (tried 176/19610)
+  collected 125/200 (tried 235/19610)
+  collected 150/200 (tried 284/19610)
+  collected 175/200 (tried 337/19610)
+  collected 200/200 (tried 379/19610)
+Done. Collected 200 new valid models out of 379 tried.
+Appended to control_raw.jsonl

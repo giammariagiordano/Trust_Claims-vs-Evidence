@@ -1,0 +1,144 @@
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Failed to validate eval_results: `eval_results` should be of type `EvalResult` or a list of `EvalResult`, got <class 'dict'>.. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Failed to validate eval_results: `eval_results` should be of type `EvalResult` or a list of `EvalResult`, got <class 'dict'>.. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Invalid model-index. Not loading eval results into CardData.
+Collecting candidate models from tags...
+Total unique candidates: 8209
+  collected 25/500 (tried 26/8209)
+  collected 50/500 (tried 54/8209)
+  collected 75/500 (tried 80/8209)
+  collected 100/500 (tried 106/8209)
+  collected 125/500 (tried 133/8209)
+  collected 150/500 (tried 158/8209)
+  collected 175/500 (tried 183/8209)
+  collected 200/500 (tried 209/8209)
+  collected 225/500 (tried 235/8209)
+  collected 250/500 (tried 261/8209)
+  collected 275/500 (tried 288/8209)
+  collected 300/500 (tried 314/8209)
+  collected 325/500 (tried 341/8209)
+  collected 350/500 (tried 367/8209)
+  collected 375/500 (tried 394/8209)
+  collected 400/500 (tried 423/8209)
+  collected 425/500 (tried 450/8209)
+  collected 450/500 (tried 475/8209)
+  collected 475/500 (tried 500/8209)
+  collected 500/500 (tried 526/8209)
+Done. Collected 500 valid models out of 526 tried (8209 total candidates available).
+Saved to models_raw.jsonl

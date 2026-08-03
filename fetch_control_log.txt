@@ -1,0 +1,17 @@
+Pulling a broad pool of up to 20000 recently-created models (unfiltered by task)...
+Pool size: 20000
+Non-health candidates: 19910 (excluded 90)
+  collected 25/300 (tried 42/19910)
+  collected 50/300 (tried 89/19910)
+  collected 75/300 (tried 140/19910)
+  collected 100/300 (tried 187/19910)
+  collected 125/300 (tried 227/19910)
+  collected 150/300 (tried 273/19910)
+  collected 175/300 (tried 315/19910)
+  collected 200/300 (tried 372/19910)
+  collected 225/300 (tried 416/19910)
+  collected 250/300 (tried 456/19910)
+  collected 275/300 (tried 500/19910)
+  collected 300/300 (tried 547/19910)
+Done. Collected 300 valid models out of 547 tried (19910 non-health candidates available).
+Saved to control_raw.jsonl
